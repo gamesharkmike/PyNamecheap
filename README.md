@@ -1,3 +1,5 @@
+https://github.com/gamesharkmike/PyNamecheap/wiki
+
 Namecheap API for Python
 ===========
 
