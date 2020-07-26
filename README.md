@@ -1,5 +1,8 @@
 https://github.com/gamesharkmike/PyNamecheap/wiki
 
+[Name Cheap API Key Boiler Plate Code](https://github.com/gamesharkmike/PyNamecheap/wiki/Name-Cheap-API-Key-Boiler-Plate-Code)  [SortDomainsByExpiry](https://github.com/gamesharkmike/PyNamecheap/wiki/SortDomainsByExpiry)  [AddHostRecord](https://github.com/gamesharkmike/PyNamecheap/wiki/AddHostRecord)  [EditHostRecord](https://github.com/gamesharkmike/PyNamecheap/wiki/EditHostRecord)  [DeleteHostRecord](https://github.com/gamesharkmike/PyNamecheap/wiki/DeleteHostRecord)  [ListHostRecords](https://github.com/gamesharkmike/PyNamecheap/wiki/ListHostRecords)
+
+
 Namecheap API for Python
 ===========
 
